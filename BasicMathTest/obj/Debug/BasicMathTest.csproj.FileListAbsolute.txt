@@ -1,0 +1,17 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csprojResolveAssemblyReference.cache
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
+D:\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+D:\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+D:\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+D:\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+D:\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe.config
+D:\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.AssemblyReference.cache
+D:\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
+D:\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CopyComplete
+D:\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+D:\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
